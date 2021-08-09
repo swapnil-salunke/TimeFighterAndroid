@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello_newbie">Hello Newbie!</string>
+    <string name="tapMe">Tap Me!</string>
+    <string name="scoreTextView">Your Score: %1$d</string>
+    <string name="timeLeftTextView">Time Left: %1$d</string>
 </resources>
